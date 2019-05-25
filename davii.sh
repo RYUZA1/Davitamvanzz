@@ -110,7 +110,7 @@ echo $ku"["$me"7"$ku"]"$i" PROFILEGUARD FB"
 echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
 echo $i"["$me"9"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
+echo $pur"Ôò¡ÔöÇ["$pur"REPORT FB"]"
 read -p"Ôò¦ÔöÇ>> " pil
 
 if [ $pil = 1 ]
